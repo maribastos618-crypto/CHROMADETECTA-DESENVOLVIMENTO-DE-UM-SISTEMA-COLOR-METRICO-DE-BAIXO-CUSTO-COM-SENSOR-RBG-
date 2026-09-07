@@ -1,0 +1,2 @@
+# CHROMADETECTA-DESENVOLVIMENTO-DE-UM-SISTEMA-COLOR-METRICO-DE-BAIXO-CUSTO-COM-SENSOR-RBG-
+ChromaDetecta é um sistema colorimétrico móvel e de baixo custo, desenvolvido com Arduino Uno e sensor RGB TCS3200, para análise de sinais colorimétricos associados à presença de íons Cu(II) em amostras de interesse agrícola. O projeto utiliza a reação entre glutamato e Cu(II) e tratamento dos dados obtidos pelo sensor.
